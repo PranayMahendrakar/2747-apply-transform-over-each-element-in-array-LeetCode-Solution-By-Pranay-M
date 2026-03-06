@@ -4,3 +4,4 @@
 - [2026-03-06T13:20:44Z] docs: improve inline documentation
 - [2026-03-06T13:22:34Z] perf: optimize loop for better performance
 - [2026-03-06T14:05:49Z] refactor: simplify conditional logic
+- [2026-03-06T18:33:04Z] fix: handle null pointer exception
